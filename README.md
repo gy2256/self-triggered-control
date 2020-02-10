@@ -7,7 +7,7 @@
 * Mac OS 13
 * Matlab 2018a
 
-for Windows system, the path needs to be modified from '/' to '\'
+
 
 ## Files Explanation
 *simulation.m* contains main simulation codes for running both self-triggered control example or periodic control example
@@ -21,7 +21,7 @@ for Windows system, the path needs to be modified from '/' to '\'
 *rBound.m* calculates r(t) that bounds system's trajecotry given an initial time t_k=0
 
 *sys_dynamics.m* contains the dynamics of double-integrator system
-## Usage example
+## Example
 
 Open *simulation.m* and run the first block to define *problem* structure. Next, run either second block (self-triggered control) or third block (periodic control). The simulation results are saved in **matfile_storage** directory as mat files.
 
