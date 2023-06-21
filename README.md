@@ -1,5 +1,14 @@
 # Self-triggered Controller
 
+## Publication
+
+G. Yang, C. Belta and R. Tron, "Self-triggered Control for Safety Critical Systems Using Control Barrier Functions," 2019 American Control Conference (ACC), Philadelphia, PA, USA, 2019, pp. 4454-4459, doi: 10.23919/ACC.2019.8814657.
+
+[ACC Paper](https://ieeexplore.ieee.org/document/8814657)
+
+[Arxiv Paper](https://arxiv.org/abs/1903.03692)
+
+
 ## Software Requirement
 * Ubuntu 18.04
 * Matlab 2018a
@@ -28,4 +37,4 @@ Open *simulation.m* and run the first block to define *problem* structure. Next,
 To get the state trajectory plots, run *stateTraj_plot(problem,conMode)* in Command Window with flag *conMode=1* for self-triggered control or *conMode=2* for periodic control.
 
 To get CLF constraint value plots for a given holding period (either fixed period or dynamic period), run *clf_plot*, with the same flag *conMode* setting as shown above.
-# self-triggered-control
+
