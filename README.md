@@ -2,7 +2,18 @@
 
 ## Publication
 
-G. Yang, C. Belta and R. Tron, "Self-triggered Control for Safety Critical Systems Using Control Barrier Functions," 2019 American Control Conference (ACC), Philadelphia, PA, USA, 2019, pp. 4454-4459, doi: 10.23919/ACC.2019.8814657.
+```
+@INPROCEEDINGS{8814657,
+  author={Yang, Guang and Belta, Calin and Tron, Roberto},
+  booktitle={2019 American Control Conference (ACC)}, 
+  title={Self-triggered Control for Safety Critical Systems Using Control Barrier Functions}, 
+  year={2019},
+  volume={},
+  number={},
+  pages={4454-4459},
+  doi={10.23919/ACC.2019.8814657}}
+
+```
 
 [ACC Paper](https://ieeexplore.ieee.org/document/8814657)
 
